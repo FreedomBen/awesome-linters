@@ -115,6 +115,7 @@ This project is not closed to actual static analyzers. With this repository we i
 
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard.
 - [findbugs](http://findbugs.sourceforge.net) - Uses static analysis to look for bugs in Java code.
+- [google-java-format](https://github.com/google/google-java-format) - Reformats java code to conform to the Google Style guid or AOSP style guide.
 - [pmd](http://pmd.github.io) - Static analyzer that finds common programming flaws. It supports Java, JavaScript, Salesforce.com Apex, PLSQL, Apache Velocity, XML, XSL.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
